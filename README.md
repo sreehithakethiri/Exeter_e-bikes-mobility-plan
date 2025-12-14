@@ -15,6 +15,9 @@ The repository is organized into clearly defined folders for data, source code, 
 Technologies Used
 
 The project is implemented using Python. Key libraries include Pandas and NumPy for data handling, Statsmodels for SARIMAX forecasting, Plotly for data visualization, Streamlit for the interactive dashboard, and Joblib for model management.
+Results
+
+The project generates station-level demand statistics, identifies peak weeks and months, and provides demand forecasts for future periods. Outputs include visualizations and Excel reports that support further analysis and interpretation.
 
 How to Run
 
