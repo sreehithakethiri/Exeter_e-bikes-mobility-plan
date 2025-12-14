@@ -1,0 +1,14 @@
+Metric: trips_total
+  mean: 1103.7631578947369
+  median: 1039.5
+  std: 938.5161469988585
+  min: 14.0
+  max: 4289.0
+
+Metric: trips_rolling_24h_mean
+  mean: 1089.275920322483
+  median: 1128.8333333333335
+  std: 209.25408746990132
+  min: 58.2
+  max: 1724.9583333333333
+
