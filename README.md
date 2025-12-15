@@ -1,6 +1,13 @@
 # Exeter_e-bikes-mobility-plan
 The model is trained with TFL data i.e csv files from 14th april to 14 may2025 of daily usage of Ebikes in london.The csv files contain the station number,start station,end station,start station id ,end station id,trip duration , date and time of the trip made .THe data does not include any senstive information.The csv files can be downloaded from here https://cycling.data.tfl.gov.uk/
 ->https://cycling.data.tfl.gov.uk/#!usage-stats%2F
+->dowload 📄 418JourneyDataExtract15Apr2025-30Apr2025.csv
+->📄 419JourneyDataExtract01May2025-14May2025.csv
+change the following cell names in csv files
+start date = start_date
+Start station number=start_station_id
+End station number =end_station_id
+Duration = duration
 
 Objectives
 
