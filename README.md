@@ -1,5 +1,5 @@
 # Exeter_e-bikes-mobility-plan
-The model is trained with TFL data (i.e csv files) of daily usage of Ebikes in london.The csv files contain the station number,start station,end station,start station id ,end station id,trip duration , date and time of the trip made .THe data does not include any senstive information.
+The model is trained with TFL data i.e csv files from 14th april to 14 may2025 of daily usage of Ebikes in london.The csv files contain the station number,start station,end station,start station id ,end station id,trip duration , date and time of the trip made .THe data does not include any senstive information.
 Objectives
 
 The objective of this project is to study bike-sharing demand using real-world data. It aims to identify peak usage periods, analyze demand at start and end stations, and generate short-term demand forecasts to support operational and strategic planning.
